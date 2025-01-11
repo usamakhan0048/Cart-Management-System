@@ -2,7 +2,6 @@ import { createBrowserRouter, useLocation } from "react-router-dom";
 import Hero from "../pages/Hero";
 import Header from "../components/nav/Header";
 import { Outlet } from "react-router-dom";
-import Login from "../pages/Login";
 import Register from "./../pages/Register";
 import Cart from "./../pages/Cart";
 import { ToastContainer } from "react-toastify";
